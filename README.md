@@ -1,1 +1,2 @@
-# TLI
+# TIL
+* today i learned
